@@ -1,14 +1,15 @@
 <div align="center">
-  <h1>Olá! Eu sou o Davi Afonso ✌️, Seja Bem Vindo ao Meu Github 🤙</h1>
-   <br>
+  <h1>=Olá! Eu sou o Davi Afonso ✌️, Seja Bem Vindo ao Meu Github 👋</h1>
+  <br>
   <div>
     <!---->
      <p>
-
-     <p>
-        🖥️ Atualmente estou trabalhando como<b> Estagiário</b><br><br>
+        🖥️ Atualmente estou trabalhando como <b>Estagiário</b><br><br>
+        
+      </p>
+    <!---->
        
-       <h3> 👨‍🦲: &nbsp;Sobre mim </h3>
+       <h3> 😉: &nbsp;Sobre mim </h3>
 <h3> Hello World ! <h3>
 
 <h4>Sou um desenvolvedor em processo de aprendizagem, tenho 26 anos e sou apaixonado por programação. Atualmente estou aprendendo desenvolvimento web, mas com foco futuro no angular e react para o desenvolvimento mobile. E em paralelo estou cursando o tecnologo de Gestão de Ti e focado em varios cursos para me inserir futuramente no desenvolvimento de aplicativos para dispositivos moveis.
