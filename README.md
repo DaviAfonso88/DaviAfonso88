@@ -4,7 +4,7 @@
   <div>
     <!---->
      <p>
-        🖥️ Estou trabalhando atualmente como <b>Estágiario </b><br><br>
+        🖥️ Estou trabalhando atualmente como <b>Estágiario</b><br><br>
         🌱 I'm currently learning a bit of everything, knowledge is key and power<br><br>
         🔭 I'm currently working on improving my <i>development</i> and <i>social skills</i><br><br>
         🤔 Interested in everything <b>technology related, games and Elden Ring</b><br><br>
