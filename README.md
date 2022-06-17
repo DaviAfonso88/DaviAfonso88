@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>Hi there 👋, I'm Almir Junior and Welcome to my GitHub 🖖</h1>
+  <h1>Olá! Eu sou o Davi Afonso ✌️, Seja Bem Vindo ao Meu Github 🤙</h1>
   <br>
   <div>
     <!---->
      <p>
-        🖥️ I'm working as a <b>Trainee</b><br><br>
+        🖥️ Atualmente estou trabalhando como<b>Estagiário</b><br><br>
         🌱 I'm currently learning a bit of everything, knowledge is key and power<br><br>
         🔭 I'm currently working on improving my <i>development</i> and <i>social skills</i><br><br>
         🤔 Interested in everything <b>technology related, games and Elden Ring</b><br><br>
