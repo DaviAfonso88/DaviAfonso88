@@ -14,7 +14,8 @@
 - 🎓 &nbsp; Estudando **Gestão em Ti** no <a href="https://www.una.br/">CENTRO UNIVERSITARIO UNA</a>.
 - 💼 &nbsp; Procurando Estagio Desenvolvedor Full Stack
 - 🌱 &nbsp; Aprendendo mais sobre **Node.js, JavaScript, Java, Desenvolvimento mobile, SQL, HTML, CSS**.
-
+  
+  
 
     <a href="https://github.com/DaviAfonso88">
     <div>
