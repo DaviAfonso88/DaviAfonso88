@@ -9,7 +9,7 @@
         🖥️ Atualmente estou trabalhando como<b> Estagiário</b><br><br>
         😉 Tenho 19 anos, sou Desenvolvedor Full Stack em constante aprendizagem<br><br>
         🔭 Busco sempre aprender mais e melhorar minhas Skills, afinal, conhecimento é a fonte do poder<br><br>
-        🤔Interessado em tudo relacionado à tecnologia, jogos e números</b><br><br>
+        🤔 Interessado em tudo relacionado à tecnologia, jogos e números</b><br><br>
         ❤️ <b>Apaixonado por programação e banco de dados!</b><br>
       </p>
     <!---->
