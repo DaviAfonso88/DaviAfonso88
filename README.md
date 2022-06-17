@@ -22,8 +22,8 @@
   </div>
   </a>
   <br>
-  <h3>📫 How to reach me:</h3>
-  <a href="https://www.linkedin.com/in/almir-j%C3%BAnior/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <h3>🌎 Onde me encontrar:</h3>
+  <a href="https://www.linkedin.com/in/davi-afonso-b98a87224/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <br>
   <h3>🚧 Languages, technologies, services and tools that I use:</h3>
   <h4>👨‍💻 Languages</h4>
