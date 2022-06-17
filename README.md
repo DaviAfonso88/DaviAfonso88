@@ -15,7 +15,7 @@
     <div>
       <img src="https://github-readme-stats.vercel.app/api?username=DaviAfonso88&show_icons=true&theme=radical&bg_color=22272E&border_radius=2.5rem&border_color=22272E">
       <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviAfonso88&layout=compact&show_icons=true&theme=dark&bg_color=22272E&border_radius=2.5rem&border_color=22272E">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviAfonso88&layout=compact&show_icons=true&theme=radical&bg_color=22272E&border_radius=2.5rem&border_color=22272E">
     </div>
     <br>
     <img src="https://github-profile-trophy.vercel.app/?username=DaviAfonso88&row=1&theme=onestar&no-bg=true&no-frame=true">
