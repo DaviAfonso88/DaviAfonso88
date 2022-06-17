@@ -28,7 +28,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/)
 
   <br>
-  <h3>🚀 SKILLS </h3>
+  <h3>##🚀 SKILLS </h3>
   <h4>👨‍💻 Languages</h4>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
