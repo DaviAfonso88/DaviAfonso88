@@ -16,7 +16,7 @@
 - 🌱 &nbsp; Aprendendo mais sobre **Node.js, JavaScript, Java, Desenvolvimento mobile, SQL, HTML, CSS**.
 
       </p>
-    <!---->
+
     <a href="https://github.com/DaviAfonso88">
     <div>
       <img src="https://github-readme-stats.vercel.app/api?username=DaviAfonso88&show_icons=true&theme=radical&bg_color=22272E&border_radius=2.5rem&border_color=22272E">
