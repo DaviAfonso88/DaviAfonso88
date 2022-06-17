@@ -7,6 +7,8 @@
         🖥️ Atualmente estou trabalhando como <b>Estagiário</b><br><br>
       </p>
     <!---->
+    
+    <div align="horizontal">
        
 <h3> 😉: &nbsp;Sobre mim </h3>
 <h3> Hello World ! <h3>
