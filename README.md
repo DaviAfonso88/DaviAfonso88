@@ -15,7 +15,6 @@
 - 💼 &nbsp; Procurando Estagio Desenvolvedor Full Stack
 - 🌱 &nbsp; Aprendendo mais sobre **Node.js, JavaScript, Java, Desenvolvimento mobile, SQL, HTML, CSS**.
 
-      </p>
 
     <a href="https://github.com/DaviAfonso88">
     <div>
