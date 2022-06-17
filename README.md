@@ -8,7 +8,7 @@
       </p>
     <!---->
     
-    <div align="horizontal">
+ <div align="horizontal">
        
 <h3> 😉: &nbsp;Sobre mim </h3>
 <h3> Hello World ! <h3>
