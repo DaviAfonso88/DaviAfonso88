@@ -1,86 +1,54 @@
-<div align="center">
-  <h1>Olá! Eu sou o Davi Afonso ✌️, Seja Bem Vindo ao Meu Github 👋</h1>
-  <br>
-  <div>
-    <!---->
-     <p>
-        🖥️ Atualmente estou trabalhando como <b>Estagiário</b><br><br>
-      </p>
-    <!---->
-    
- <div align="horizontal">
-       
-   <h3> 😉: &nbsp;Sobre mim </h3>
-   <h3> Hello World ! <h3>
-
-   <h4>Sou um desenvolvedor em processo de aprendizagem, tenho 26 anos e sou apaixonado por programação. Atualmente estou aprendendo desenvolvimento web, mas com foco futuro no angular e react para o desenvolvimento mobile. E em paralelo estou cursando o tecnologo de Gestão de Ti e focado em varios cursos para me inserir futuramente no desenvolvimento de aplicativos para dispositivos moveis.
-  
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Gestão em Ti** no <a href="https://www.una.br/">CENTRO UNIVERSITARIO UNA</a>.
-- 💼 &nbsp; Procurando Estagio Desenvolvedor Full Stack
-- 🌱 &nbsp; Aprendendo mais sobre **Node.js, JavaScript, Java, Desenvolvimento mobile, SQL, HTML, CSS**.
-  
-  <p>
-
-    <a href="https://github.com/DaviAfonso88">
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api?username=DaviAfonso88&show_icons=true&theme=radical&bg_color=22272E&border_radius=2.5rem&border_color=22272E">
-      <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviAfonso88&layout=compact&show_icons=true&theme=radical&bg_color=22272E&border_radius=2.5rem&border_color=22272E">
-    </div>
-    <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=DaviAfonso88&row=1&theme=onestar&no-bg=true&no-frame=true">
-  </div>
-  </a>
-  <br>
-  <h3>🌎 Onde me encontrar:</h3>
-  
- <a href="https://www.linkedin.com/in/davi-afonso-b98a87224/-j%C3%BAnior/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/)
-
-  <br>
-  <h3>🚀 SKILLS </h3>
-  <h4>👨‍💻 linguagens de programação</h4>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <h4>📚 Databases</h4>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <h4>🔧 Tools</h4>
-  <img src="https://camo.githubusercontent.com/214157e8f9b576ef28def2856afa2bc3c04657a20e9b4f3c58ae47c91e3718be/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://camo.githubusercontent.com/6b7f701cf0bea42833751b754688f1a27b6090fdf90bf2b226addff01be817f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465">
-  <img src="https://camo.githubusercontent.com/20ff8ded288a2aa6c24bc6e47d138bf570e6729468875ffaa2bdd1dc0195abe4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f44617461677269702d77686974653f7374796c653d666f722d7468652d6261646765266c6f676f3d6461746167726970266c6f676f436f6c6f723d626c61636b">
-  <img src="https://camo.githubusercontent.com/93ae318132d035a8c007ee1cb244f63a02d87cc0051dfa67323f5bfdc6b222d1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e736f6d6e69612d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d696e736f6d6e6961266c6f676f436f6c6f723d353834394245">
-  <h4>🧰 Frameworks</h4>
-  <img src="https://img.shields.io/badge/Flutter-518FD1?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <h4>☁️ Cloud</h4>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-  <h4>🧭 Misc</h4>
-  <img src="https://camo.githubusercontent.com/46e44694ec7a20834156ecc84bc22d07041edc0de17202b343f2d99d43b4ba9b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6d6f6368612d2532333844363734383f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f636861266c6f676f436f6c6f723d7768697465">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-  <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <h4>🖥️ OS</h4>
-  <img src="https://img.shields.io/badge/Arch_Linux_|_Endeavour_OS-803DC0?style=for-the-badge&logo=arch-linux&logoColor=white">
-  <img src="https://img.shields.io/badge/KDE-179AF3?style=for-the-badge&logo=Kde&logoColor=white">
+<div>
+  <h1 align="center">Oi Tudo bem? Eu sou o Davi Afonso 😃️</h1>
+ 
+  </a><br>
+ 
 </div>
-<!--
-**AlmirJNR/AlmirJNR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- <h1 align="center"> 
+  Trybe
+</h1>
+
+<p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
+
+<div align="center">
+  <a href="https://github.com/duribeiro">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
+<div align="center" valign="top"><br>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
+<!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
+  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div><br>
+
+<div align="center">
+  <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/edu.duduribeiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <!-- <a href="https://www.facebook.com/pr.eduardoribeiro" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  -->
+  <a href="https://www.linkedin.com/in/edududuribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:eduardo.duduribeiro1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<div align="center">
+  <p>Feito com :heart: e JavaScript.</p>
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+</div>
