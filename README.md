@@ -24,7 +24,7 @@
   <br>
   <h3>🌎 Onde me encontrar:</h3>
   
- [![Linkedin: SEU NOME](https://img.shields.io/badge/-LuanVictor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/luan-victor-61756518b/)
+ [![Linkedin: SEU NOME](https://img.shields.io/badge/-DaviAfonso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/davi-afonso-b98a87224/)
 [![Gmail Badge](https://img.shields.io/badge/-luanvictorms@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanvictorms@gmail.com)](mailto:luanvictorms@gmail.com)
 
   <br>
