@@ -24,8 +24,8 @@
   <br>
   <h3>🌎 Onde me encontrar:</h3>
   
- [![Linkedin:(https://img.shields.io/badge/-DaviAfonso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/davi-afonso-b98a87224/)
-[![Gmail Badge](https://img.shields.io/badge/-luanvictorms@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanvictorms@gmail.com)](mailto:luanvictorms@gmail.com)
+ <a href="https://www.linkedin.com/in/davi-afonso-b98a87224/-j%C3%BAnior/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
   <br>
   <h3>🚧 Languages, technologies, services and tools that I use:</h3>
