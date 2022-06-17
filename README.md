@@ -1,12 +1,13 @@
 <div align="center">
   <h1>Olá! Eu sou o Davi Afonso ✌️, Seja Bem Vindo ao Meu Github 🤙</h1>
-  <br>
+   <br>
   <div>
-    
-  <!---->
+    <!---->
+     <p>
 
      <p>
         🖥️ Atualmente estou trabalhando como<b> Estagiário</b><br><br>
+       
        <h3> 👨‍🦲: &nbsp;Sobre mim </h3>
 <h3> Hello World ! <h3>
 
