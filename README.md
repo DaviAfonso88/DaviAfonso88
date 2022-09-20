@@ -27,8 +27,8 @@
 
 <div align="center">
   <a href="https://github.com/DaviAfonso88">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DaviAfonso88&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAfonso88&theme=radical&hide_border=false&&layout=compact"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=DaviAfonso88&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAfonso88&theme=radical&hide_border=false&&layout=compact"/>
   </a>
 </div>
  <h3>🚀 SKILLS:</h3>
@@ -37,15 +37,18 @@
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src=https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white>
+  <img src=https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <h4>📚  Database</h4>
    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+   <img src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white>
    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
    <h4>💼 Frameworks</h4>
    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+   <img src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white>
+   <img src=https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white>
    <h4>🔧 IDE</h4>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
      <h4>☁ CLOUD</h4>
