@@ -49,6 +49,7 @@
    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
    <img src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white>
    <img src=https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white>
+   <img src=https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white>
    <h4>🔧 IDE</h4>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
      <h4>☁ CLOUD</h4>
