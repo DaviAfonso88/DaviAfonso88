@@ -30,7 +30,7 @@
   <a href="https://github.com/DaviAfonso88">
     <img height="150em" src="http://github-readme-stats.vercel.app/api?username=DaviAfonso88&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
     <img height="150em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=DaviAfonso88&theme=radical&hide_border=false&&layout=compact"/>
-     <img src="https://picrew.me/shareImg/org/202210/338224_oDvR6jX2.png" height="150" style="border-radius:50px;"
+     <img src="https://picrew.me/shareImg/org/202210/338224_oDvR6jX2.png" height="150" style="border-radius:50px;" 
   </a>
 </div>
  <h3>🚀 SKILLS:</h3>
