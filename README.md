@@ -35,11 +35,11 @@
  ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+ ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-E34F26?style=for-the-badge&logo=CodeIgniter&logoColor=white)
  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
  <br>
  ![SqlServer](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=sql-server&logoColor=white)
  ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
- ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-E34F26?style=for-the-badge&logo=CodeIgniter&logoColor=white)
  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
  
@@ -56,8 +56,8 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-E34F26?style=for-the-badge&logo=CodeIgniter&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 <br>
 
