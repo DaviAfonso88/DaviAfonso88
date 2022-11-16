@@ -1,6 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=header"/>
- 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EE82EE&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+Davi+Afonso👋;Tenho+19+anos✌️;Estudo+sistemas+de+informação+na+UNA;Sou+estagiário+de+desenvolvimento;Busco+sempre+aprender+mais+e+melhorar+minhas+Skills;Enfim...;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+
+<div align="center">
+  <img width="55%" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" />
+</div>
+
+<br>
+<br>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaviAfonso88&show_icons=true&count_private=true&hide_border=true&title_color=EE82EE&icon_color=BA55D3&text_color=c9d1d9&bg_color=0d1117" alt="Davi Afonso Pereira Chaves github stats" /> 
@@ -9,9 +16,10 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DaviAfonso88&bg_color=0d1117&color=c71585&line=ee82ee&point=ecb1e4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DaviAfonso88&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+</p> 
 
 
  <br>
@@ -20,8 +28,7 @@
 <a href="https://www.linkedin.com/in/davi-afonso-b98a87224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="mailto:daviafonso5894@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-
-<h2><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px">Habilidades:</h2>
+<h2><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif"width="35px" height="35px">Habilidades:</h2> 
 
  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
