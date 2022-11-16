@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EE82EE&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+Davi+Afonso👋;Tenho+19+anos✌️;Estudo+sistemas+de+informação+na+UNA;Sou+estagiário+de+desenvolvimento;Busco+sempre+aprender+mais+e+melhorar+minhas+Skills;Enfim...;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="55%" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" />
+  <img width="70%" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" />
 </div>
 
 <br>
