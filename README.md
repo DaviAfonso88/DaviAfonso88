@@ -7,6 +7,25 @@
 </div>
 
 <br>
+  
+<details>
+<summary> 🟣 Ainda sobre mim:</summary>
+<br>
+  
+![136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335](https://user-images.githubusercontent.com/94051879/194400886-f9f8b0ca-e4fc-44a5-829a-10cb25082eda.gif)
+<br>
+  
+💜 Amo tecnologia e noque ela pode nos beneficiar em diversas áreas. <br>
+💜 Curto muito um bom game, passo bastante do meu tempo livre jogando. <br>
+💜 Busco ser full-stack mas minha paixão é o front-end. <br>
+💜 Adoro animais. <br>
+  
+![136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335](https://user-images.githubusercontent.com/94051879/194400886-f9f8b0ca-e4fc-44a5-829a-10cb25082eda.gif)
+
+</details>
+
+
+<br>
 <br>
 
 <div align="center">  
