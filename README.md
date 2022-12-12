@@ -10,7 +10,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaviAfonso88&show_icons=true&count_private=true&hide_border=true&title_color=EE82EE&icon_color=BA55D3&text_color=c9d1d9&bg_color=0d1117" alt="Davi Afonso Pereira Chaves github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAfonso88&layout=compact&langs_count=8&hide_border=true&title_color=EE82EE&text_color=DDA0DD&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAfonso88&layout=compact&langs_count=6&hide_border=true&title_color=EE82EE&text_color=DDA0DD&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DaviAfonso88&bg_color=0d1117&color=c71585&line=ee82ee&point=ecb1e4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
