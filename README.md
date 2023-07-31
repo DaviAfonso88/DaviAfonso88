@@ -13,9 +13,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAfonso88&layout=compact&langs_count=6&hide_border=true&title_color=EE82EE&text_color=DDA0DD&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DaviAfonso88&bg_color=0d1117&color=c71585&line=ee82ee&point=ecb1e4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+ <br>
+ <br>
+ 
+ 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DaviAfonso88&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p> 
