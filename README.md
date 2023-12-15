@@ -10,8 +10,8 @@
 <br>
 
 <div  align="center" style="margin-bottom:100px">
-<img width=53% align="center"  src="https://github-readme-stats.vercel.app/api?username=DaviAfonso88&theme=nightowl&show_icons=true&border_radius=2.5rem" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAfonso88&langs_count=5&hide=php,less&theme=nightowl&layout=compact&border_radius=2.5rem" />
+<img width=53% align="center"  src="https://github-readme-stats.vercel.app/api?username=DaviAfonso88&theme=outrun&show_icons=true&border_radius=2.5rem" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAfonso88&langs_count=5&hide=php,less&theme=outrun&layout=compact&border_radius=2.5rem" />
 </div>
  
  &nbsp;
@@ -30,7 +30,7 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="350px" align="right">
 
 
 #### 💼 Frameworks & Library:
