@@ -76,8 +76,4 @@
 <a href="mailto:daviafonso5894@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>&nbsp;&nbsp;
 
-<br>
-
-![](https://komarev.com/ghpvc/?username=DaviAfonso88&color=8A2BE2)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
