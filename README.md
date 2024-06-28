@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A9A9A9&size=35&center=true&vCenter=true&width=1000&lines=+Hi,+I'm+Davi+Afonso;Welcome+to+my+profile!+:%29;+Feel+free+to+explore+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A9A9A9&size=35&center=true&vCenter=true&width=1000&lines=+Olá,+meu+nome+é+Davi+Afonso;Bem+vindo+ao+meu+perfil!+:%29;+Fique+a+vontade+para+explorar+👋)](https://git.io/typing-svg)
 
 <br>
 
-<p align="center" style="margin-bottom: 20px;" >I ❤️ solve big challenges using technology. <br><br> From backend development using the .NET Framework (ASP.NET Core) to frontend development with ReactJS, I have a passion for exploring new technologies and applying them to create high-quality solutions. I'm currently an entry-level full stack developer focusing on web development.</p>&nbsp;
+<p align="center" style="margin-bottom: 20px;" >Eu ❤️ resolver grandes desafios usando tecnologia. <br><br> Do desenvolvimento backend usando .NET Framework (ASP.NET Core) ao desenvolvimento frontend com ReactJS, tenho paixão por explorar novas tecnologias e aplicá-las para criar soluções de alta qualidade. Atualmente sou um desenvolvedor full stack iniciante com foco em desenvolvimento web.</p>&nbsp;
 
 <br>
 <br>
