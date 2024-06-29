@@ -4,7 +4,7 @@
 
 <br>
 
-<p align="center" style="margin-bottom: 20px;" >Eu ❤️ resolver grandes desafios usando tecnologia. <br><br> Do desenvolvimento backend usando .NET Framework (ASP.NET Core) ao desenvolvimento frontend com ReactJS, tenho paixão por explorar novas tecnologias e aplicá-las para criar soluções de alta qualidade. Atualmente sou um desenvolvedor full stack iniciante com foco em desenvolvimento web.</p>&nbsp;
+<p align="center" style="margin-bottom: 20px;" >Eu ❤️ resolver grandes desafios usando tecnologia. <br><br> Do desenvolvimento backend usando .NET Framework (ASP.NET Core) ao desenvolvimento frontend com ReactJS, tenho paixão por explorar novas tecnologias e aplicá-las para criar soluções de alta qualidade. Atualmente sou um desenvolvedor full stack júnior com foco em desenvolvimento web.</p>&nbsp;
 
 <br>
 <br>
