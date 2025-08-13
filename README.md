@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=551a8b&height=100&section=header"/>
 
-<div align="center" width="170%">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka+Sans&size=25&pause=1000&color=9B2FFD&width=435&lines=Hi+there!+I'm+Davi+Afonso;Be+wellcome+to+my+profile!;Please+feel+free+to+know+me!!" alt="Typing SVG"/>
 </div>
 
 <br>
 
-<p align="center" style="margin-bottom: 20px;" >Eu ❤️ resolver grandes desafios usando tecnologia. <br><br> Do desenvolvimento backend usando .NET Framework (ASP.NET Core) ao desenvolvimento frontend com ReactJS, tenho paixão por explorar novas tecnologias e aplicá-las para criar soluções de alta qualidade. Atualmente sou um desenvolvedor full stack júnior com foco em desenvolvimento web.</p>&nbsp;
+<p align="center" style="margin-bottom: 20px;" >I ❤️ solving big challenges using technology. <br><br> From backend development with .NET Framework (ASP.NET Core) and Node.js to frontend development with ReactJS and Tailwind, I am passionate about exploring new technologies and applying them to create high-quality solutions. I am currently a junior full stack developer focused on web development.</p>&nbsp;
 
 
 <br>
@@ -47,22 +47,15 @@
 </div>
  
 <br>
+<br>
 
 <div align="center">
    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="350px" align="right">
 </div>
 
-
+<br>
+<br>
 
 <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDaviAfonso88&s=40&c=412866&bg=00000000&no=2&ff=digi&tb=profile+visits%3A+&ta=" alt="visits">
-
-<div> 
-<a href="https://www.linkedin.com/in/davi-afonso-b98a87224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-<img alt="Static Badge" src="https://img.shields.io/badge/linkedin-291b3e?style=for-the-badge&logo=LinkedIn">
-
-
-<a href="mailto:daviafonso5894@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>&nbsp;&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=551a8b&height=100&section=footer"/>
