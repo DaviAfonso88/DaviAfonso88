@@ -24,10 +24,9 @@
 
 <div align="center">
  
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=412866)](mailto:daviafonso5894@gmail.com)
-<img alt="Static Badge" src="https://img.shields.io/badge/gmail-%23412866?style=for-the-badge&logo=gmail&logoColor=%23ffffff&link=daviafonso5894%40gmail.com">
-<img alt="Static Badge" src="https://img.shields.io/badge/My%20Portfolio-%23412866?style=for-the-badge&logo=globo&link=portfolio-davi-afonso.netlify.app">
-<img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-%23412866?style=for-the-badge&logo=globo&link=linkedin.com%2Fin%2Fdavi-afonso">
+[![Gmail](https://img.shields.io/badge/gmail-%23412866?style=for-the-badge&logo=gmail&logoColor=%23ffffff)](mailto:daviafonso5894@gmail.com)
+[![Porrfolio](https://img.shields.io/badge/my%20portfolio-%23412866?style=for-the-badge&logoColor=%23ffffff)](mailto:daviafonso5894@gmail.com)
+[![Linkedin](https://img.shields.io/badge/Linkedin-%23412866?style=for-the-badge&logo=globo&link=linkedin.com%2Fin%2Fdavi-afonso)](linkedin.com/in/davi-afonso)
   
 </div>
 
