@@ -50,12 +50,14 @@
 <br>
 
 <div align="center">
-   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="350px" align="right">
+   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" max-width="400px" width="280px" align="right">
 </div>
 
 <br>
 <br>
 
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDaviAfonso88&s=40&c=412866&bg=00000000&no=2&ff=digi&tb=profile+visits%3A+&ta=" alt="visits">
+<div align="center">
+   <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDaviAfonso88&s=40&c=412866&bg=00000000&no=2&ff=digi&tb=profile+visits%3A+&ta=" alt="visits">
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=551a8b&height=100&section=footer"/>
