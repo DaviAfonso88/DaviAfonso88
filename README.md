@@ -49,7 +49,13 @@
  
 <br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="350px" align="right">
+<div align="center">
+   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="350px" align="right">
+</div>
+
+
+
+<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDaviAfonso88&s=40&c=412866&bg=00000000&no=2&ff=digi&tb=profile+visits%3A+&ta=" alt="visits">
 
 <div> 
 <a href="https://www.linkedin.com/in/davi-afonso-b98a87224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
