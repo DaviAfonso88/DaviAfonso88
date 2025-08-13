@@ -24,9 +24,13 @@
 
 </div>
 
----
 
+<div align="center">
+  
 ### 🚀 Tech Stack
+  
+</div>
+
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React" title="React"/>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" alt="Tailwind" title="Tailwind CSS"/>
@@ -43,9 +47,13 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" alt="AWS" title="AWS"/>
 </div>
 
----
 
+<div align="center">
+  
 ### 📬 Connect with Me
+  
+</div>
+
 <div align="center">
   <a href="mailto:daviafonso5894@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23412866?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -66,6 +74,16 @@
 
 <div align="center">
   <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDaviAfonso88&s=40&c=412866&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A+&ta=" alt="Profile Visits"/>
+</div>
+
+---
+
+<div align="center">
+  
+### 🐍 My Contributions Snake
+  
+![Snake animation](https://github.com/DaviAfonso88/DaviAfonso88/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=551a8b&height=100&section=footer"/>
