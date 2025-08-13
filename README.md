@@ -76,14 +76,5 @@
   <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDaviAfonso88&s=40&c=412866&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A+&ta=" alt="Profile Visits"/>
 </div>
 
----
-
-<div align="center">
-  
-### 🐍 My Contributions Snake
-  
-![Snake animation](https://github.com/DaviAfonso88/DaviAfonso88/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=551a8b&height=100&section=footer"/>
