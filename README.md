@@ -25,8 +25,8 @@
 <div align="center">
  
 [![Gmail](https://img.shields.io/badge/gmail-%23412866?style=for-the-badge&logo=gmail&logoColor=%23ffffff)](mailto:daviafonso5894@gmail.com)
-[![Porrfolio](https://img.shields.io/badge/my%20portfolio-%23412866?style=for-the-badge&logoColor=%23ffffff)](mailto:daviafonso5894@gmail.com)
-[![Linkedin](https://img.shields.io/badge/Linkedin-%23412866?style=for-the-badge&logo=globo&link=linkedin.com%2Fin%2Fdavi-afonso)](linkedin.com/in/davi-afonso)
+[![Porrfolio](https://img.shields.io/badge/my%20portfolio-%23412866?style=for-the-badge&logoColor=%23ffffff)](https://portfolio-davi-afonso.netlify.app/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-%23412866?style=for-the-badge&logo=globo&link=linkedin.com%2Fin%2Fdavi-afonso)](https://www.linkedin.com/in/davi-afonso/)
   
 </div>
 
